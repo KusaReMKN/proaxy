@@ -1,0 +1,20 @@
+{
+  "name": "proaxy",
+  "version": "0.0.0",
+  "description": "OASYS LX-7500SD に搭載されている Web ブラウザのためのインチキ HTTP Proxy",
+  "homepage": "https://github.com/KusaReMKN/proaxy#readme",
+  "bugs": {
+    "url": "https://github.com/KusaReMKN/proaxy/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KusaReMKN/proaxy.git"
+  },
+  "license": "MIT",
+  "author": "KusaReMKN",
+  "type": "module",
+  "main": "proxy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
