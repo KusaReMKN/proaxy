@@ -18,7 +18,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
+    "chardet": "^2.1.1",
     "http": "^0.0.1-security",
+    "iconv-lite": "^0.7.2",
     "url": "^0.11.4"
   }
 }
