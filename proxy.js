@@ -40,7 +40,7 @@ detectEncoding(buf, contentType)
 	if (charset)
 		return charset;
 
-	return chardet.detect(buffer) || 'utf8';
+	return chardet.detect(buf) || 'utf8';
 }
 
 function
